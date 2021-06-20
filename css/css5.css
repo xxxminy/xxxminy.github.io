@@ -1,0 +1,58 @@
+*{margin:0; padding:0;}
+body{text-align: center;}
+header{width:1200px; height:300px; }
+#nav1{width:1200px;height:90px;border-style:none;margin:5px auto;border:1px;font-size: 20px;text-align: center;}
+li{float:left;list-style-type: none;padding: 30px;}
+section{width:1200px; height:1400px;clear:both;}
+
+header,section{width:950px; margin:2px auto;}
+
+#left{width:380px; height:400px; float:left; }
+#right{float:left; width:555px; height:400px; margin-left:15px;}
+
+#left-1{width:250px; height:970px;  background-color:#FFC; float:left;}
+#right-1{ float:left; width:680px; margin-left:20px; }
+
+#left-2{width:220px; height:250px; float:left;}
+#main-2{float:left; width:220px; height:250px; }
+#right-2{float:left; width:220px; height:250px; }
+
+#left-3{width:140px; height:630px; float:left; }
+#right-3{float:left; width:100px; height:630px; }
+
+
+
+
+.sp201{font-size: 24px;color:red; margin-top:25px;}
+.sp202{font-size: 18px;}
+.sp203{
+	font-size: 20px;
+	float: left;
+	width: 377px;
+	height: 40px;
+	background-color: #F00;
+	text-align: center;
+	font-size: 25px;
+	position: absolute;
+	top: 625px;
+	left: 639px;
+}
+.sp204{font-size: 20px;float: right;width: 150px;height: 30px;background-color:#F60;text-align: center;font-size: 25px;margin-right: 250px;}
+.sp205{font-size: 20px;float: left; width: 150px;height:30px; background-color:#FC9;text-align: center;font-size: 25px;}
+.zt{font-size: 20px;}
+
+.rs{text-align:center;font-size: 30px;color:#600; font-weight:bold; background-color:#FFC; height:40px;}
+.rs1{text-align:left;font-size: 20px;color:#600; width:160px;}
+.k2{width:120px;height:20px;}
+.k3{width:60px;height:20px;}
+.k4{width: 80px;height: 30px;margin-left: 70px;margin-top: 20px;}
+
+.dg2{font-size: 15px;}
+.dg3{font-size: 12px;}
+
+.wbzt{color:#FFF; font-size: 15px; text-align:center;  	margin-top: 20px;}
+
+#denglu{text-align:right}
+#sousuo{float:center;margin-top: 50px}
+.search{width: 500px;height: 40px;border-color:#B74345;;border-style: solid;}
+.button{width: 65px;height: 40px;background:#B74345;;font-size: 20px;font-family: "黑体"}
